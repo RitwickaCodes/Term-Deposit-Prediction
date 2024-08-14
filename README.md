@@ -50,7 +50,7 @@ Through this project, I gained hands-on experience in:
 
 ## Author
 
-**Ritwicka Majumder** -  [LinkedIn](www.linkedin.com/in/ritwicka-majumder-36b4b7255)
+**Ritwicka Majumder** -  [LinkedIn](https://www.linkedin.com/in/ritwicka-majumder-36b4b7255/)
 
 
 ## Acknowledgements
